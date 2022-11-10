@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Timeloop {
+public class timeloop {
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
         int counter = scan.nextInt();
