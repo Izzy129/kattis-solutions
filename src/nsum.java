@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nSum {
+public class nsum {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
