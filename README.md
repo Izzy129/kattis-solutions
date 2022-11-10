@@ -4,6 +4,7 @@ This is a repository containing my solutions for [Kattis](https://open.kattis.co
 
 ## Accessing Problems
 To access a problem, navigate to https://open.kattis.com/problems/problem , replacing problem in the URL with the solution program name.
+
 Example: nsum.java, access problem at https://open.kattis.com/problems/nsum 
 
 ## Folder Structure
