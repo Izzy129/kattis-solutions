@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OddEcho {
+public class oddecho {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         int lines = scan.nextInt();
