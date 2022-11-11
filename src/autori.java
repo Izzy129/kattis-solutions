@@ -1,5 +1,5 @@
 import java.util.*;
-public class Autori {
+public class autori {
     public static void main(String args[]) {
         getFirstLetters();
     }

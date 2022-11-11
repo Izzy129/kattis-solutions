@@ -1,5 +1,5 @@
 import java.util.*;
-public class IsItHalloween {
+public class isithalloween {
     public static void main (String[] args) throws Exception {
         Scanner scan = new Scanner(System.in); // scan for input
         String data = scan.nextLine();

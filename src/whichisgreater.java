@@ -1,4 +1,4 @@
-public class WhichIsGreater {
+public class whichisgreater {
     public static void main(String[] args) {
         System.out.println(WhichIsGreater(13, 14));
     }
