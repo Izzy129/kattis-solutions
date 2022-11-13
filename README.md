@@ -3,7 +3,7 @@
 - This is a repository containing my solutions for [Kattis](https://open.kattis.com) problems.
 
 ## Accessing Problems
-- To access a problem, navigate to https://open.kattis.com/problems/problem , replacing problem in the URL with the solution program name.
+To access a problem, navigate to https://open.kattis.com/problems/problem , replacing problem in the URL with the solution program name.
 
 - Example: [nsum.java](https://github.com/Izzy129/kattis-solutions/blob/master/src/nsum.java), access problem at https://open.kattis.com/problems/nsum 
 
