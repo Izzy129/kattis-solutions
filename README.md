@@ -2,7 +2,7 @@
 
 This is a repository containing my solutions for [Kattis](https://open.kattis.com) problems.
 - [Kattis](https://open.kattis.com) is a website containing thousands of programming challenges, all of which are judged and scored on-site.
-- 
+
 ## Accessing Problems
 To access a problem, navigate to https://open.kattis.com/problems/problem , replacing problem in the URL with the solution program name.
 
