@@ -11,7 +11,7 @@ public class heimavinna {
         while (scan.hasNext()) {
 
             String current = scan.next();
-            current = current.replaceAll("-", " ");
+            current = current.replace("-", " ");
             
             Scanner currentScan = new Scanner(current);
             ArrayList<Integer> theList = new ArrayList<>();
