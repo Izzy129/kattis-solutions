@@ -8,7 +8,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 
 - Example: [nsum.java](https://github.com/Izzy129/kattis-solutions/blob/master/src/nsum.java), access problem at https://open.kattis.com/problems/nsum
 
-# TO-DO
+## TO-DO
 - [ ] Put problems in a table with their respective links to problem, solution, and more details to it?
 - [ ] Solve some already solved problems with Python
 
