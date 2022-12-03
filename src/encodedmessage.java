@@ -7,10 +7,11 @@ public class encodedmessage {
 
     for (int i = 0; i < cases; i++) {
       String message = scan.next();
+      
       int arraySize = (int)(Math.sqrt(message.length()));
       char[][] messageArray = new char[arraySize][arraySize];
       int j = 0;
-
+      
       for (int c = messageArray.length - 1; c >= 0; c--) { // there's probably proper terms for this traversal but I forgot it
         // loop to build array from message
         for (int r = 0; r < messageArray.length; r++) {
@@ -26,5 +27,6 @@ public class encodedmessage {
       }
       System.out.println();
     }
+    scan.close();
   }
 }

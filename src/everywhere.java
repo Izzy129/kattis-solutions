@@ -13,7 +13,7 @@ public class everywhere {
                 s.add(scan.next());
             }
             System.out.println(s.size());
-            
         }
+        scan.close();
     }
 }

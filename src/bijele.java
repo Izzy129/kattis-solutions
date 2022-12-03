@@ -5,7 +5,7 @@ public class bijele {
         Scanner scan = new Scanner(System.in);
         int[] correct = {1, 1, 2, 2, 2, 8};
         int[] current = {scan.nextInt(), scan.nextInt(), scan.nextInt(), scan.nextInt(), scan.nextInt(), scan.nextInt()};
-        
+        scan.close();
         for (int i = 0; i < current.length; i++) {
             if (current[i] == correct[i]) {
                 System.out.print(0 + " ");

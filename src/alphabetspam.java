@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 public class alphabetspam {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
+        scan.close();
         double whitespace = 0;
         double uppercase = 0;
         double lowercase = 0;
@@ -20,6 +21,7 @@ public class alphabetspam {
             else //symbol counter
                 symbol++;
         }
+        
         System.out.println(whitespace/s.length());
         System.out.println(lowercase/s.length());
         System.out.println(uppercase/s.length());

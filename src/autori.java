@@ -7,6 +7,7 @@ public class autori {
     public static void getFirstLetters() {
         Scanner input = new Scanner(System.in); // input stream
         String s = input.next();
+        input.close();
         
         Scanner scan = new Scanner(s); // input usage
         scan.useDelimiter("-");
@@ -16,6 +17,7 @@ public class autori {
         
         while (scan.hasNext())
             wordArray.add(scan.next());
+        scan.close();
         for (String word: wordArray) 
             newString += word.charAt(0);
         System.out.println(newString);

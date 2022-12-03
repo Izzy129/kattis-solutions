@@ -9,6 +9,7 @@ public class cold {
             if (scan.nextInt() < 0) 
                 counter++;
         }
+        scan.close();
         System.out.println(counter);
     }
 }

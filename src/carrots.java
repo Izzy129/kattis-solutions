@@ -6,7 +6,7 @@ public class carrots {
 
         scan.nextInt();
         int problems = scan.nextInt();
-
+        scan.close();
         System.out.println(problems);
 
     }
