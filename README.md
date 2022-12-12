@@ -44,6 +44,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/r2.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sibice.java) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/smil.java) |
+| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sorttwonumbers.java) | 
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/timeloop.java) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/triarea.java) |
 | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/trik.java), [Java Alt](https://github.com/Izzy129/kattis-solutions/blob/master/src/trikAlt.java) |
