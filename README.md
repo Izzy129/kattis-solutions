@@ -52,6 +52,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/whichisgreater.java) |
 ## TO-DO
 - [x] Put problems in a table with their respective links to problem, solution, and more details to it?
+- [ ] Create a script/GitHub Actions to automate table updating
 - [ ] Solve some already solved problems with Python
 
 ## Folder Structure
