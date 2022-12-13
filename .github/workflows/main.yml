@@ -1,0 +1,21 @@
+name: Update solutions table
+
+on: 
+  push:
+
+jobs:
+  updatetable:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Read files
+      uses: actions/upload-artifact@v2
+      with: 
+        name: file_list
+        path: file_list.txt
+        run: ls > file_list.txt
+    
+    - name: Upload file list
+      uses: actions/upload-artifact@v2
+      with:
+        name: file_list
+        path: file_list.txt
