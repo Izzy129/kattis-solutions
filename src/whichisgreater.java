@@ -1,12 +1,16 @@
+import java.util.*;
+import java.io.*;
+
 public class whichisgreater {
     public static void main(String[] args) {
-        System.out.println(WhichIsGreater(13, 14));
-    }
-    public static int WhichIsGreater(int num1, int num2) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
         
-        if (num1 > num2) 
-            return 1;
-        else 
-            return 0;
+        if (a <= b) {
+            System.out.println(0);
+        } else {
+            System.out.println(1);
+        }
     }
 }
