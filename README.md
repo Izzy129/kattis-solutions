@@ -40,6 +40,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/ofugsnuid.java) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/quadrant.java) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/qaly.java) |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/reversebinary.java) |
 | [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/r2.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sibice.java) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/smil.java) |
