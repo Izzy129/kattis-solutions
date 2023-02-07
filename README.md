@@ -33,6 +33,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/everywhere.java) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/jackolanternjuxtaposition.java) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/jumbojavelin.java) |
+| [Knight Packing](https://open.kattis.com/problems/knightpacking) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/knightpacking.java) |
 | [Metronome](https://open.kattis.com/problems/metronome) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/metronome.java) |
 | [N-sum](https://open.kattis.com/problems/nsum) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/nsum.java) |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/oddecho.java) |
