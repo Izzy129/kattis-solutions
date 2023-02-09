@@ -1,38 +1,28 @@
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class trik {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
-        char[] moves = s.toCharArray();
-        int[] cups = new int[3];
-        cups[0] = 1;
-        int temp = 0;
+        ArrayList<Integer> cups = new ArrayList<>(Arrays.asList(1,0,0));
 
-        for (char c: moves) {
-            switch (c) {
+        for (int i = 0; i < s.length(); i++) {
+            switch (s.charAt(i)) {
                 case 'A': 
-                    temp = cups[1];
-                    cups[1] = cups[0];
-                    cups[0] = temp;
+                    Collections.swap(cups, 0, 1);
                     break;
                 case 'B':
-                    temp = cups[2];
-                    cups[2] = cups[1];
-                    cups[1] = temp;
-                        break;
+                    Collections.swap(cups, 1, 2);
+                    break;
                 case 'C':
-                    temp = cups[2];
-                    cups[2] = cups[0];
-                    cups[0] = temp;
+                    Collections.swap(cups, 0, 2);
                     break;
             }
         }
-        for (int i = 0; i < cups.length; i++) {
-            if (cups[i] == 1) {
-                System.out.println(++i);
-                break;
-            }
-        }
+        
+        System.out.println(cups.indexOf(1) + 1);
     }
 }
