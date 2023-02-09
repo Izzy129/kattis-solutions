@@ -23,7 +23,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/digitswap.java) |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/echoechoecho.java) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/encodedmessage.java) |
-| [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/faktor.java) |T
+| [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/faktor.java) |
 | [Finding An A](https://open.kattis.com/problems/findingana) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/findingana.java) |
 | [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fyi.java) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/greetings2.java) |
