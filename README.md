@@ -27,6 +27,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Finding An A](https://open.kattis.com/problems/findingana) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/findingana.java) |
 | [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fyi.java) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/greetings2.java) |
+| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/grassseed.java) |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/heimavinna.java) |
 | [Hello World!](https://open.kattis.com/problems/hello) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/hello.java) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/isithalloween.java) |
