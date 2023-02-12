@@ -23,15 +23,15 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/digitswap.java) |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/echoechoecho.java) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/encodedmessage.java) |
+| [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fyi.java) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/faktor.java) |
 | [Finding An A](https://open.kattis.com/problems/findingana) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/findingana.java) |
-| [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fyi.java) |
-| [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/greetings2.java) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/grassseed.java) |
-| [Homework](https://open.kattis.com/problems/heimavinna) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/heimavinna.java) |
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/greetings2.java) |
 | [Hello World!](https://open.kattis.com/problems/hello) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/hello.java) |
-| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/isithalloween.java) |
+| [Homework](https://open.kattis.com/problems/heimavinna) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/heimavinna.java) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/everywhere.java) |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/isithalloween.java) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/jackolanternjuxtaposition.java) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/jumbojavelin.java) |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/knightpacking.java) |
@@ -40,15 +40,15 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/oddecho.java) |
 | [Oddities](https://open.kattis.com/problems/oddities) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/oddities.java) |
 | [Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/pot.java) |
-| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/ofugsnuid.java) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/quadrant.java) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/qaly.java) |
-| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/reversebinary.java) |
 | [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/r2.java) |
-| [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sibice.java) |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/ofugsnuid.java) |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/reversebinary.java) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/smil.java) |
+| [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sibice.java) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/carrots.java) |
-| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sorttwonumbers.java) | 
+| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sorttwonumbers.java) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/timeloop.java) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/twostones.java) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/triarea.java) |
@@ -68,4 +68,3 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
