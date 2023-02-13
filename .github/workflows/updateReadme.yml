@@ -20,4 +20,4 @@ jobs:
         java-version: 11
 
     - name: Run Java file
-      run: java ReadMeScript.java
+      run: java src/ReadMeScript.java
