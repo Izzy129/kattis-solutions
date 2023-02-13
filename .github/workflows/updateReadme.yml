@@ -1,0 +1,23 @@
+name: Run Java File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Java file
+      uses: actions/setup-java@v1
+      with: 
+            java-version: 11
+      run: |
+        echo "updating readme.."
+        java src/ReadMeScript.java
+        echo "readme updated"
