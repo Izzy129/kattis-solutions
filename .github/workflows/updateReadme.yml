@@ -13,11 +13,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Run Java file
+    - name: Setup Java
       uses: actions/setup-java@v1
-      with: 
-            java-version: 11
-      run: |
-        echo "updating readme.."
-        java src/ReadMeScript.java
-        echo "readme updated"
+      with:
+        java-version: 11
+
+    - name: Run Java file
+      run: java ReadMeScript.java
