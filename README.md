@@ -18,6 +18,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/bijele.java) |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fodelsedagsmemorisering.java) |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/pyramids.java) |
+| [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/classfieldtrip.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/cold.java) |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/conundrum.java) |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/digitswap.java) |
@@ -26,6 +27,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fyi.java) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/faktor.java) |
 | [Finding An A](https://open.kattis.com/problems/findingana) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/findingana.java) |
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fizzbuzz.java) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/grassseed.java) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/greetings2.java) |
 | [Hello World!](https://open.kattis.com/problems/hello) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/hello.java) |

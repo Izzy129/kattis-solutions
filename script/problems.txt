@@ -3,6 +3,7 @@ apaxiaaans
 autori
 bijele
 carrots
+classfieldtrip
 cold
 conundrum
 digitswap
@@ -11,6 +12,7 @@ encodedmessage
 everywhere
 faktor
 findingana
+fizzbuzz
 fodelsedagsmemorisering
 fyi
 grassseed
