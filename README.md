@@ -48,9 +48,11 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/ofugsnuid.java) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/reversebinary.java) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/smil.java) |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/shatteredcake.java) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sibice.java) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/carrots.java) |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/sorttwonumbers.java) |
+| [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/spavanac.java) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/timeloop.java) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/twostones.java) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/triarea.java) |
@@ -59,8 +61,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/whichisgreater.java) |
 ## TO-DO
 - [x] Put problems in a table with their respective links to problem, solution, and more details to it?
-- [x] Create a script/GitHub Actions to automate table updating
-  - [ ] Optimize script with local problem caching
+- [ ] Create a script/GitHub Actions to automate table updating
 - [ ] Solve some already solved problems with Python
 
 ## Folder Structure

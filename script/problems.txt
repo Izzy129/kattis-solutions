@@ -35,9 +35,11 @@ quadrant
 r2
 ReadMeScript
 reversebinary
+shatteredcake
 sibice
 smil
 sorttwonumbers
+spavanac
 timeloop
 triarea
 trik
