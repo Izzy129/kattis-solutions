@@ -21,6 +21,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/chanukah) |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/classfieldtrip.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/cold.java) |
+| [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/countthevowels.java)
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/conundrum.java) |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/digitswap.java) |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/echoechoecho.java) |
