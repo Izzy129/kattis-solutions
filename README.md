@@ -18,7 +18,7 @@ To access a problem, navigate to `https://open.kattis.com/problems/problem`, rep
 | [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/bijele.java) |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/fodelsedagsmemorisering.java) |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/pyramids.java) |
-| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/chanukah) |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/chanukah.java) |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/classfieldtrip.java) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/cold.java) |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [Java](https://github.com/Izzy129/kattis-solutions/blob/master/src/countthevowels.java)
